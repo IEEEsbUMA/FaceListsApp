@@ -1,0 +1,112 @@
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.exe
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.pdb
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\resources.pri
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\AppxManifest.xml
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.build.appxrecipe
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.Client.dll
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.dll
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.xml
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.Client.xml
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.csprojResolveAssemblyReference.cache
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\App.g.i.cs
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\App.g.cs
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\LandingPage.g.i.cs
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\LandingPage.g.cs
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\HomePage.g.i.cs
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\HomePage.g.cs
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\App.xaml
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\LandingPage.xaml
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\HomePage.xaml
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.exe
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.pdb
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.csproj.GenerateResource.Cache
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\priconfig.xml
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\layout.resfiles
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\resources.resfiles
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\pri.resfiles
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\LanguageQualifiers.txt
+C:\Users\Rosana\Desktop\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.exe
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.pdb
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\resources.pri
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\AppxManifest.xml
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.build.appxrecipe
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.Client.dll
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.dll
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.xml
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.Client.xml
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.csprojResolveAssemblyReference.cache
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\App.g.i.cs
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\App.g.cs
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\LandingPage.g.i.cs
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\LandingPage.g.cs
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\HomePage.g.i.cs
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\HomePage.g.cs
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\App.xaml
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\LandingPage.xaml
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\HomePage.xaml
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.exe
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.pdb
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.csproj.GenerateResource.Cache
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\priconfig.xml
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\layout.resfiles
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\resources.resfiles
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\pri.resfiles
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\qualifiers.txt
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rosana\Dropbox\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.exe
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.pdb
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\resources.pri
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\AppxManifest.xml
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.build.appxrecipe
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.Client.dll
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.dll
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.xml
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Facebook.Client.xml
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.csprojResolveAssemblyReference.cache
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\App.g.i.cs
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\App.g.cs
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\LandingPage.g.i.cs
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\LandingPage.g.cs
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\HomePage.g.i.cs
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\HomePage.g.cs
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\App.xaml
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\LandingPage.xaml
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Views\HomePage.xaml
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.exe
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.pdb
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\RequestApp.csproj.GenerateResource.Cache
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\priconfig.xml
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\layout.resfiles
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\resources.resfiles
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\pri.resfiles
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\qualifiers.txt
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\obj\Debug\ProjectArchitectures.txt

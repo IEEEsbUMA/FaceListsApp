@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROX-DELL</Machine>
+    <WindowsUser>Rosana</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2d36696a-9f8d-4efc-b610-e9bb60700bac</PackageIdentityName>
+    <RegisteredManifestChecksum>C74A19FB04E81AA516141A5A2E0BB9FF93EFC2581D16E56766590B6191083156</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2d36696a-9f8d-4efc-b610-e9bb60700bac_1.0.0.0_neutral__f8yajeqnjz9e0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2d36696a-9f8d-4efc-b610-e9bb60700bac_f8yajeqnjz9e0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2d36696a-9f8d-4efc-b610-e9bb60700bac</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Vanessa</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-25T16:44:38.450</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\RequestApp.exe">
+      <PackagePath>RequestApp.exe</PackagePath>
+      <Modified>2014-01-16T19:53:05.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\packages\Facebook.Client.0.3.0-alpha\lib\win8\Facebook.Client.dll">
+      <PackagePath>Facebook.Client.dll</PackagePath>
+      <Modified>2013-12-25T16:42:52.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\packages\Facebook.6.4.0\lib\win8\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+      <Modified>2013-12-25T16:42:52.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-25T09:53:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-25T09:53:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-25T09:53:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-25T09:53:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-05-25T09:53:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-05-25T09:53:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Views\LandingPage.xaml">
+      <PackagePath>Views\LandingPage.xaml</PackagePath>
+      <Modified>2013-05-25T09:53:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Views\HomePage.xaml">
+      <PackagePath>Views\HomePage.xaml</PackagePath>
+      <Modified>2013-05-25T09:53:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-05-25T09:53:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rosana\SkyDrive\#RIATEC#\Modulo 9 - Windows Phone\APP_FUNCIONA_LISTAS\RequestApp FUNCIONAL\RequestApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-25T16:44:36.763</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
