@@ -8,9 +8,9 @@ App Authors
 ============
  
 * Juanma Tirado
-* Vanessa Cantero
-* Yimy Sheng (El Chino)
-* Rosana Ruiz
+* Vanessa Cantero Gómez
+* Yu fong Lozano Shen
+* Rosana Ruiz Fernández
 
 
 Note
