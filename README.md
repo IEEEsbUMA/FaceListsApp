@@ -9,7 +9,7 @@ App Authors
  
 * Juanma Tirado
 * Vanessa Cantero Gómez
-* Yu fong Lozano Shen
+* Yu Fong Lozano Shen
 * Rosana Ruiz Fernández
 
 
